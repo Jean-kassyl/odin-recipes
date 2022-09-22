@@ -5,4 +5,4 @@
 It helps me pratice my html skills such as html elements and tags, links, images, lists and file structure
 
 ## links
-![check a live demo here](https://jean-kassyl.github.io/odin-recipes/)
+[check a live demo here](https://jean-kassyl.github.io/odin-recipes/)
